@@ -1,0 +1,98 @@
+/* Basic2 */
+body{
+    max-width: 50%;
+    margin-left: 25%;
+}
+.basic2 section {
+max-width:800px;
+margin: 0 auto;
+}
+
+.basic2 section h2 {
+    font-size: 40px;
+}
+
+.basic2 section p {
+    color: green
+}
+
+.basic2 section h3 {
+    color: darkgray; 
+    background-color: lightgray; 
+    font-size: 35px;
+}
+
+/* Basic3 */
+.basic3 header nav ul{
+    background-color: gray;
+}
+.basic3 header nav ul li{
+    list-style: none;
+    
+}
+a{
+    color: orangered;
+}
+
+section main a{
+    margin-bottom: 14em;
+    text-decoration: none;
+}
+
+section main p span{
+    color: red;
+}
+
+/* background1 */
+.background1 section{
+    background: linen;
+}
+.background1 section h1{
+    background: lightblue;
+}
+.background1 article{
+    background-image: url(https://source.unsplash.com/random/);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* background2 */
+.background2 section{
+    background-image: url(https://www.w3schools.com/css/gradient_bg_vertical.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background2 article{
+    background-image: url(https://picsum.photos/300/200);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+/* background3 */
+.background3 section{
+    background: #333 url(https://source.unsplash.com/random) center/cover no-repeat;
+}
+
+/* selektoren1 */
+.selektoren1 section{
+    background: #A5D6A7;
+}
+.selektoren1 section h1{
+    background: #4DD0E1;
+}
+.selektoren1 section p{
+    background: #C5CAE9;
+}
+.selektoren1 article{
+    background: #F48FB1;
+}
+.selektoren1 article h2{
+    background: #7986cb;
+}
+.selektoren1 article p{
+    background: #ff8a65;
+}
+.selektoren1 button{
+    background: #304FFE;
+    color: white;
+}
